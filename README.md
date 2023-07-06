@@ -1,4 +1,6 @@
 # My_42Tokyo_README
+- 2023/03 Piscine(Entrance exam)
+- 2023/05\~ Enrollment
 ## 42Tokyo 
  [ 42Tokyo Official Website ](https://42tokyo.jp/) 
  
@@ -6,6 +8,7 @@
 
 ## README
 42Tokyoで実装した課題の概要、使用技術の説明
+
 ### [Libft](https://github.com/ryhara/Libft)
 - libc「標準Cライブラリ」に含まれる関数などの再実装
   - malloc, free, singly linked list
