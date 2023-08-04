@@ -28,7 +28,9 @@
 ### [minitalk](https://github.com/ryhara/minitalk)
 - UNIXシグナルを使用したクライアント/サーバー間の通信
   - signal, sigaction. sigemptyset, sigaddset, usleep, pause
-### [so_long](https://github.com/ryhara/so_long)
+### [fract-ol](https://github.com/ryhara/fract-ol)
+- MiniLibXを用いたフラクタルの描画, マンデルブロ集合, ジュリア集合
+ - [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) 
 
 ### [push_swap](https://github.com/ryhara/push_swap)
 
