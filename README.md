@@ -28,12 +28,21 @@
 ### [minitalk](https://github.com/ryhara/minitalk)
 - UNIXシグナルを使用したクライアント/サーバー間の通信
   - signal, sigaction. sigemptyset, sigaddset, usleep, pause
+ 
 ### [fract-ol](https://github.com/ryhara/fract-ol)
 - MiniLibXを用いたフラクタルの描画, マンデルブロ集合, ジュリア集合
- - [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) 
+  - [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) 
 
 ### [push_swap](https://github.com/ryhara/push_swap)
+- 2つのスタックを用いたソートの最適化
+  - ソートアルゴリズム, 双方向循環リスト
 
 ### [minishell](https://github.com/ryhara)
-
-### [Philosopher](https://github.com/ryhara)
+- bashの再実装
+  - | , <, > , << , >> 
+  -  echo -n, cd , pwd, export, unset, env, exit
+  -  ctrl-C, ctrl-D, ctrl-\
+  -  environment variables, $, "", ''
+### [Philosophers](https://github.com/ryhara)
+- 食事する哲学者の問題 ([Wikipedia](https://ja.wikipedia.org/wiki/%E9%A3%9F%E4%BA%8B%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%AE%E5%95%8F%E9%A1%8C))
+  - 排他制御、デッドロック
