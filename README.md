@@ -38,6 +38,7 @@
   - ソートアルゴリズム, 双方向循環リスト
 
 ### [minishell](https://github.com/ryhara)
+- ペア課題 [相方](https://github.com/Mori062/minishell)
 - bashの再実装
   - | , <, > , << , >> 
   -  echo -n, cd , pwd, export, unset, env, exit
