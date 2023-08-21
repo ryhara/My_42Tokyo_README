@@ -42,7 +42,7 @@
   - | , <, > , << , >> 
   -  echo -n, cd , pwd, export, unset, env, exit
   -  ctrl-C, ctrl-D, ctrl-\
-  -  environment variables, $, "", ''
+  -  environment variables, \$?, \$VARIABLE, "", ''
 - ペア課題 [相方](https://github.com/Mori062/minishell)
 
 ### [Philosophers](https://github.com/ryhara/Philosophers)
