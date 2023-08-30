@@ -39,11 +39,13 @@
 
 ### [minishell](https://github.com/ryhara)
 - bashの再実装（C言語）
-  - | , <, > , << , >> 
-  -  echo -n, cd , pwd, export, unset, env, exit
-  -  ctrl-C, ctrl-D, ctrl-\
-  -  environment variables, \$?, \$VARIABLE, "", ''
-- ペア課題 [相方](https://github.com/Mori062/minishell)
+  - | , <, > , << , >> の再現
+  -  echo -n, cd , pwd, export, unset, env, exitの再実装
+  -  ctrl-C, ctrl-D, ctrl-\の再現
+  -  environment variables, \$?, \$VARIABLE, "", ''の再現、展開
+  -  その他のコマンドはexecveでPATHから実行
+  -  \\, ||, &&, ;, (), は未対応
+- ペア課題 [ペアのリポジトリ](https://github.com/Mori062/minishell)
 
 ### [Philosophers](https://github.com/ryhara/Philosophers)
 - 食事する哲学者の問題 ([Wikipedia](https://ja.wikipedia.org/wiki/%E9%A3%9F%E4%BA%8B%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%AE%E5%95%8F%E9%A1%8C))
