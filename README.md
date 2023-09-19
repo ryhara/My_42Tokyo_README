@@ -37,7 +37,7 @@
 - 2つのスタックを用いたソートの最適化（C言語）
   - ソートアルゴリズム, 双方向循環リスト
 
-### [minishell](https://github.com/ryhara)
+### [minishell](https://github.com/ryhara/minishell)
 - bashの再実装（C言語）
   - | , <, > , << , >> の再現
   -  echo -n, cd , pwd, export, unset, env, exitの再実装
