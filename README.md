@@ -57,7 +57,7 @@
 ### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README)
 C++の練習課題
 - [CPP-Module-00](https://github.com/ryhara/CPP-Module-00)
-  - c++
+  - iostream, string
 - [CPP-Module-01](https://github.com/ryhara/CPP-Module-01)
   - c++
 - [CPP-Module-02](https://github.com/ryhara/CPP-Module-02)
@@ -72,7 +72,7 @@ C++の練習課題
 ### [Net Practice](https://github.com/ryhara/My_42Tokyo_README)
 - IPアドレス、サブネットマスク
 
-### [cub3d / miniRT](https://github.com/ryhara/My_42Tokyo_README)
+### [miniRT](https://github.com/ryhara/My_42Tokyo_README)
 - MiniLibX
 
 ## Level 5
