@@ -47,7 +47,7 @@
   -  environment variables, \$?, \$VARIABLE, "", ''の再現、展開
   -  その他のコマンドはexecveでPATHから実行
   -  \\, ||, &&, ;, (), は未対応
-- ペア課題 [ペアのリポジトリ](https://github.com/Mori062/minishell)
+- ペア課題 ([ペアのリポジトリ](https://github.com/Mori062/minishell))
 
 ### [Philosophers](https://github.com/ryhara/Philosophers)
 - 食事する哲学者の問題 ([Wikipedia](https://ja.wikipedia.org/wiki/%E9%A3%9F%E4%BA%8B%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%AE%E5%95%8F%E9%A1%8C))
@@ -60,7 +60,8 @@
   - カメラ、環境光、点光源、平面、球、円柱
   - カメラ位置の移動、複数オブジェクトの表示
   - Phongの反射モデル（環境光(定数)、直接光の拡散反射光、直接光の鏡面反射光）
- 
+- ペア課題 ([ペアのリポジトリ](https://github.com/YungTatyu/miniRT))  
+
 ### [NetPractice](https://github.com/ryhara/NetPractice)
 - IPアドレス、サブネットマスク
 
