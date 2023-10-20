@@ -76,7 +76,7 @@ C++の練習課題
 - [CPP-Module-03](https://github.com/ryhara/CPP-Module-03)
   - class inheritance, multiple inheritance, ...
 - [CPP-Module-04](https://github.com/ryhara/CPP-Module-04)
-  - c++
+  - virtual function, virtual destructor, abstract class
 
 
 ## 未作成
