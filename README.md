@@ -53,6 +53,9 @@
 - 食事する哲学者の問題 ([Wikipedia](https://ja.wikipedia.org/wiki/%E9%A3%9F%E4%BA%8B%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%AE%E5%95%8F%E9%A1%8C))
   - 排他制御、デッドロック（C言語）
 
+### [(Option)Philosophers-tester](https://github.com/ryhara/Philosophers-tester)
+- Philosophersという課題のtestを自動で行うshell scriptを作成
+
 ## Level 4
 ### [miniRT](https://github.com/ryhara/miniRT)
 - MiniLibXを用いたレイトレーシングプログラムの実装
