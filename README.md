@@ -88,7 +88,7 @@ C++の練習課題
 ### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README)
 C++の練習課題2
 - [CPP-Module-05](https://github.com/ryhara/CPP-Module-05)
-  - c++
+  - try, catch
 - [CPP-Module-06](https://github.com/ryhara/CPP-Module-06)
   - c++
 - [CPP-Module-07](https://github.com/ryhara/CPP-Module-07)
