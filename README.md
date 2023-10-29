@@ -65,8 +65,8 @@
   - Phongの反射モデル（環境光(定数)、直接光の拡散反射光、直接光の鏡面反射光）
 - ペア課題 ([ペアのリポジトリ](https://github.com/YungTatyu/miniRT))  
 
-### [NetPractice](https://github.com/ryhara/NetPractice)
-- IPアドレス、サブネットマスク
+### [NetPractice](https://github.com/ryhara/NetPractice) (Private)
+- IPアドレス、サブネットマスク、ルーティングに関する練習問題
 
 ### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README)
 C++の練習課題
