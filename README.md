@@ -68,7 +68,7 @@
 ### [NetPractice](https://github.com/ryhara/NetPractice) (Private)
 - IPアドレス、サブネットマスク、ルーティングに関する練習問題
 
-### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README)
+### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README) (Private)
 C++の練習課題
 - [CPP-Module-00](https://github.com/ryhara/CPP-Module-00)
   - iostream, string, ...
