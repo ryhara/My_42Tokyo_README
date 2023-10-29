@@ -21,7 +21,7 @@
 - fgetsのような改行まで読み込んで返す関数の実装（C言語）
   - malloc, free, open, read, write
 
-### [Born2beroot](https://github.com/ryhara/Born2beroot)
+### [Born2beroot](https://github.com/ryhara/Born2beroot) (Private)
 - 仮想マシンの作成、Linuxのインストール(リポジトリ空)
   - sudo, apt, user, group, ufw, ssh, LVM, cron, Debian
 
