@@ -87,7 +87,7 @@ C++の練習課題2
 - [CPP-Module-05](https://github.com/ryhara/CPP-Module-05)
   - try, catch
 - [CPP-Module-06](https://github.com/ryhara/CPP-Module-06)
-  - c++
+  - cast
 - [CPP-Module-07](https://github.com/ryhara/CPP-Module-07)
   - c++
 - [CPP-Module-08](https://github.com/ryhara/CPP-Module-08)
@@ -97,8 +97,7 @@ C++の練習課題2
 
 ### [webserv](https://github.com/ryhara/webserv)
 
-## 未作成
-### [Inception](https://github.com/ryhara/My_42Tokyo_README)
+### [Inception](https://github.com/ryhara/Inception)
 
 ## Level 6
 ## Level 7
