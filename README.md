@@ -89,11 +89,11 @@ C++の練習課題2
 - [CPP-Module-06](https://github.com/ryhara/CPP-Module-06)
   - cast
 - [CPP-Module-07](https://github.com/ryhara/CPP-Module-07)
-  - c++
+  - template
 - [CPP-Module-08](https://github.com/ryhara/CPP-Module-08)
-  - c++
+  - templated containers, iterators, algorithms
 - [CPP-Module-09](https://github.com/ryhara/CPP-Module-09)
-  - c++
+  - STL(Standard Template Library)
 
 ### [webserv](https://github.com/ryhara/webserv)　
 - HTTP (C++)
