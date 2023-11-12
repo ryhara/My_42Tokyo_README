@@ -2,22 +2,24 @@
 - 2023/03 Piscine(Entrance exam)
 - 2023/05\~ Enrollment
 - 42Tokyoで実装した課題の概要、使用技術の説明
+- level3以前のrepositoryをprivateにしました。level0,1,2の内容はlevel3以降でも使用されています。
+
 ## 42Tokyo 
  [ 42Tokyo Official Website ](https://42tokyo.jp/) 
  
  42Tokyoは学費完全無料、パリ発のエンジニア養成機関です。
 
 ## Level 0
-### [Libft](https://github.com/ryhara/Libft)
+### [Libft](https://github.com/ryhara/Libft) (Private)
 - libc「標準Cライブラリ」に含まれる関数などの再実装　（C言語）
   - malloc, free, singly linked list
 
 ## Level 1
-### [ft_printf](https://github.com/ryhara/ft_printf)
+### [ft_printf](https://github.com/ryhara/ft_printf) (Private)
 - printf関数の再実装(一部指定子)（C言語）
   - 可変長引数
 
-### [get_next_line](https://github.com/ryhara/get_next_line)
+### [get_next_line](https://github.com/ryhara/get_next_line) (Private)
 - fgetsのような改行まで読み込んで返す関数の実装（C言語）
   - malloc, free, open, read, write
 
@@ -26,7 +28,7 @@
   - sudo, apt, user, group, ufw, ssh, LVM, cron, Debian
 
 ## Level 2
-### [minitalk](https://github.com/ryhara/minitalk)
+### [minitalk](https://github.com/ryhara/minitalk) (Private)
 - UNIXシグナルを使用したクライアント/サーバー間の通信（C言語）
   - signal, sigaction. sigemptyset, sigaddset, usleep, pause
  
