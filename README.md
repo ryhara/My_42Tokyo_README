@@ -96,7 +96,7 @@ C++の練習課題2
   - STL(Standard Template Library)
 
 ### [webserv](https://github.com/ryhara/webserv)　
-- HTTP (C++)
+- HTTPサーバーの実装 (C++)
 - 
 
 ### [Inception](https://github.com/ryhara/Inception)
