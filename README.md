@@ -2,12 +2,16 @@
 - 2023/03 Piscine(Entrance exam)
 - 2023/05\~ Enrollment
 - 42Tokyoで実装した課題の概要、使用技術の説明
-- level3以前のrepositoryをprivateにしました。level0,1,2の内容はlevel3以降でも使用されています。
 
 ## 42Tokyo 
  [ 42Tokyo Official Website ](https://42tokyo.jp/) 
  
  42Tokyoは学費完全無料、パリ発のエンジニア養成機関です。
+
+## Notes
+- level3以前のrepositoryを一部privateにしました。level0,1,2の内容はlevel3以降でも使用されています。
+- その他課題も一部repositoryをprivateにしています。
+- fract-ol, minishell, miniRTに関してはREADME.mdを用意しています
 
 ## Level 0
 ### [Libft](https://github.com/ryhara/Libft) (Private)
