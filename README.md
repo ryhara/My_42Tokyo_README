@@ -115,3 +115,7 @@ C++の練習課題2
 ## Level 7
 
 ## 42Tokyo Original Event
+### SEMICON JAPAN × 42Tokyo 2023 半導体製造時のパーティクル検出をイメージとした、画像認識の精度を競うコンテスト
+>  参画企業 : キヤノン株式会社 / 株式会社日立ハイテク / 株式会社SCREENセミコンダクターソリューションズ / 東京エレクトロン株式会社
+>
+> URL : [https://www.semiconjapan.org/jp/](https://www.semiconjapan.org/jp/) / [https://www.semiconjapan.org/jp/workforce/semicon-42hackathon](https://www.semiconjapan.org/jp/workforce/semicon-42hackathon)
