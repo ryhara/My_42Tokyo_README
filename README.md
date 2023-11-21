@@ -7,6 +7,13 @@
  [ 42Tokyo Official Website ](https://42tokyo.jp/) 
  
  42Tokyoは学費完全無料、パリ発のエンジニア養成機関です。
+ - 特徴
+   - 学費無料、経歴不問、24h開校
+   - 4週間の入学試験
+   - 教師なし、授業なしで生徒で教え合うピアラーニング
+   - 個人やチームで課題を進めていく
+   - お互いの課題をレビューし合う
+   - スポンサー企業や海外キャンパスとの交流
 
 ## Notes
 - level3以前のrepositoryを一部privateにしました。level0,1,2の内容はlevel3以降でも使用されています。
@@ -109,7 +116,7 @@ C++の練習課題2
 - 
 
 ### [Inception](https://github.com/ryhara/Inception)
-- docker
+- docker, docker-compose を用いた環境構築
 
 ## Level 6
 ## Level 7
