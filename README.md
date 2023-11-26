@@ -109,7 +109,7 @@ C++の練習課題2
 - [CPP-Module-08](https://github.com/ryhara/CPP-Module-08)
   - templated containers, iterators, algorithms
 - [CPP-Module-09](https://github.com/ryhara/CPP-Module-09)
-  - STL(Standard Template Library)
+  - STL(Standard Template Library), Merge-insertion sort
 
 ### [webserv](https://github.com/ryhara/webserv)　
 - HTTPサーバーの実装 (C++)
