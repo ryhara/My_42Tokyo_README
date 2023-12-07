@@ -41,7 +41,7 @@
 ## Level 2
 ### [minitalk](https://github.com/ryhara/minitalk) (Private)
 - UNIXシグナルを使用したクライアント/サーバー間の通信（C言語）
-  - signal, sigaction. sigemptyset, sigaddset, usleep, pause
+  - signal, sigaction, sigemptyset, sigaddset, usleep, pause
  
 ### [fract-ol](https://github.com/ryhara/fract-ol)
 - MiniLibXを用いたフラクタルの描画, マンデルブロ集合, ジュリア集合（C言語）
@@ -116,7 +116,10 @@ C++の練習課題2
 - 
 
 ### [Inception](https://github.com/ryhara/Inception)
-- docker, docker-compose を用いた環境構築
+- Docker, docker-compose を用いた環境構築
+- mariadb, nginx, WordPress
+- Dockerfile, docker-compose.yml
+- 
 
 ## Level 6
 ## Level 7
