@@ -119,7 +119,6 @@ C++の練習課題2
 - Docker, docker-compose を用いた環境構築
 - mariadb, nginx, WordPress
 - Dockerfile, docker-compose.yml
-- 
 
 ## Level 6
 ## Level 7
