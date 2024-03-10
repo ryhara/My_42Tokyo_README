@@ -113,7 +113,13 @@ C++の練習課題2
 
 ### [webserv](https://github.com/ryhara/webserv)　
 - HTTPサーバーの実装 (C++)
-- 
+  - HTTP/1.1に準拠
+  - GET, POST, DELETE
+  - 複数ポート・Host
+  - autoIndex
+  - CGI
+  - chunked
+  - redirect
 
 ### [Inception](https://github.com/ryhara/Inception)
 - Docker, docker-compose を用いた環境構築
@@ -122,6 +128,10 @@ C++の練習課題2
 - [42在校生向けに書いた本課題の記事(qiita)](https://qiita.com/ryhara/items/0581c03e82bd84c54a6f)
 
 ## Level 7
+
+### [ft_transcendence](https://github.com/ryhara)
+- Vanilla JS
+- 
 
 ## 42Tokyo Original Event
 ### SEMICON JAPAN × 42Tokyo 2023 
