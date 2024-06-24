@@ -20,6 +20,8 @@
 - その他課題も一部repositoryをprivateにしています。
 - fract-ol, minishell, miniRTに関してはREADME.mdを用意しています
 
+# 1st Circle
+
 ## Level 0
 ### [Libft](https://github.com/ryhara/Libft) (Private)
 - libc「標準Cライブラリ」に含まれる関数などの再実装　（C言語）
@@ -97,7 +99,7 @@ C++の練習課題
 - [CPP-Module-04](https://github.com/ryhara/CPP-Module-04)
   - virtual function, virtual destructor, abstract class
 
-## Level 5, Level 6
+## Level 5, 6, 7
 ### [CPP Modules](https://github.com/ryhara/My_42Tokyo_README) (Private)
 C++の練習課題2
 - [CPP-Module-05](https://github.com/ryhara/CPP-Module-05)
@@ -127,11 +129,22 @@ C++の練習課題2
 - Dockerfile, docker-compose.yml
 - [42在校生向けに書いた本課題の記事(qiita)](https://qiita.com/ryhara/items/0581c03e82bd84c54a6f)
 
-## Level 7
+## Level 8, 9, 10
 
-### [ft_transcendence](https://github.com/ryhara)
+### [ft_transcendence](https://github.com/ryhara/ft_transcendence)
 - Vanilla JS
-- 
+- Django
+- PostgreSQL
+- Bootstrap
+- Blockchain
+- SPA
+
+**１st Circle（基礎課程）終了**
+
+# 2nd Circle
+
+###  未定
+
 
 ## 42Tokyo Original Event
 ### SEMICON JAPAN × 42Tokyo 2023 
