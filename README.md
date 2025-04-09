@@ -50,7 +50,7 @@
   - [README.md](https://github.com/ryhara/fract-ol/blob/main/README.md)
   - [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) 
 
-### [push_swap](https://github.com/ryhara/push_swap)
+### [push_swap](https://github.com/ryhara/push_swap) (Private)
 - 2つのスタックを用いたソートの最適化（C言語）
   - ソートアルゴリズム, 双方向循環リスト
 
@@ -66,7 +66,7 @@
   -  \\, ||, &&, ;, (), は未対応
 - ペア課題 ([ペアのリポジトリ](https://github.com/Mori062/minishell))
 
-### [Philosophers](https://github.com/ryhara/Philosophers)
+### [Philosophers](https://github.com/ryhara/Philosophers) (Private)
 - 食事する哲学者の問題 ([Wikipedia](https://ja.wikipedia.org/wiki/%E9%A3%9F%E4%BA%8B%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%AE%E5%95%8F%E9%A1%8C))
   - 排他制御、デッドロック（C言語）
 
